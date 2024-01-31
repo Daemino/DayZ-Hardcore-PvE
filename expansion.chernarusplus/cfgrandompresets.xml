@@ -245,7 +245,7 @@
 				<item name="ReflexOptic" chance="0.05" />
 		</attachments>
 		<!--NBC Cargo-->
-		<cargo chance="0.2" name="ContaminatedCargo">
+		<cargo chance="0.1" name="ContaminatedCargo">
 				<item name="GasMask_Filter" chance="0.01" />
 		</cargo>
 		<!--FARM ATTACHMENTS-->
@@ -611,9 +611,9 @@
 			<item name="M67Grenade" chance="0.10" />
 			<item name="RGD5Grenade" chance="0.10" />
 			<item name="LandMineTrap" chance="0.10" />
-			<item name="Grenade_ChemGas" chance="0.02" />
+			<item name="Grenade_ChemGas" chance="0.0" />
 			<item name="Ammo_40mm_Explosive" chance="0.02" />
-			<item name="Ammo_40mm_ChemGas" chance="0.02" />
+			<item name="Ammo_40mm_ChemGas" chance="0.0" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Ammo_Small">
 			<item name="Ammo_Flare" chance="0.01" />
@@ -753,8 +753,8 @@
 			<item name="Mag_PP19_64Rnd" chance="0.05" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Fillers_Medium">
-			<item name="ClaymoreMine" chance="0.33" />
-			<item name="Plastic_Explosive" chance="0.33" />
+			<item name="ClaymoreMine" chance="0.0" />
+			<item name="Plastic_Explosive" chance="0.0" />
 			<item name="XmasLights" chance="0.33" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Repairs_Medium">
