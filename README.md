@@ -1,4 +1,4 @@
-This repository just archives the server settings I made and saves it for future use. Server's Discord:
+This repository just archives the server settings I made and saved it for future use. Server's Discord:
 http://www.discord.gg/mtr36Nm
 
 
