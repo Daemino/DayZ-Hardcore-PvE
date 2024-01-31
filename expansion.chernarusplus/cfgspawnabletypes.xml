@@ -367,7 +367,7 @@
 		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>		
 		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>			
 		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
-		<cargo chance="0.01"> <item name="Ammo_40mm_ChemGas" /> </cargo>
+		<cargo chance="0.00"> <item name="Ammo_40mm_ChemGas" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
@@ -387,19 +387,19 @@
 	</type>
 	
 	<type name="AirborneMask">
-		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
+		<damage min="0.0" max="0.65" />
+		<cargo chance="0.01">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
 	<type name="GP5GasMask">
-		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
+		<damage min="0.0" max="0.65" />
+		<cargo chance="0.01">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
 	<type name="GasMask">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.65" />
 	</type>
 	<type name="Bear_Beige">
 		<cargo chance="0.00">
@@ -2582,43 +2582,43 @@
 		</attachments>
 	</type>
 	<type name="M4_Suppressor">
-		<damage min="0.0" max="0.32" />
+		<damage min="0.0" max="0.75" />
 	</type>
 	<type name="PistolSuppressor">
 		<damage min="0.40" max="0.75" />
 	</type>
 	<type name="AK_Suppressor">
-		<damage min="0.0" max="0.32" />
+		<damage min="0.0" max="0.75" />
 	</type>
 	<type name="NBCBootsGray">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCBootsYellow">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCGlovesGray">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCGlovesYellow">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCHoodGray">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCHoodYellow">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCJacketGray">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCJacketYellow">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCPantsGray">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="NBCPantsYellow">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.7" />
 	</type>
 	<type name="WaterBottle">
 	</type>
