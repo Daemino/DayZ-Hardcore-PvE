@@ -1,0 +1,77 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 1,
+    "DeployableOutsideATerritory": [
+        "Fireplace",
+        "TerritoryFlagKit",
+        "MediumTent",
+        "LargeTent",
+        "CarTent",
+        "PartyTent",
+        "ExpansionCamoTentKit",
+        "ExpansionCamoBoxKit",
+        "ShelterKit",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "ExpansionSafeLarge",
+        "ExpansionSafeMedium",
+        "ExpansionSafeSmall",
+        "SeaChest",
+        "WoodenCrate",
+        "GardenPlot"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap"
+    ],
+    "CanCraftVanillaBasebuilding": 1,
+    "CanCraftExpansionBasebuilding": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 1,
+    "DismantleInsideTerritory": 0,
+    "DismantleAnywhere": 0,
+    "CodelockActionsAnywhere": 0,
+    "CodeLockLength": 4,
+    "DoDamageWhenEnterWrongCodeLock": 1,
+    "DamageWhenEnterWrongCodeLock": 10.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 0,
+    "AutomaticFlagOnCreation": 0,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Green Mountain Trader Camp",
+            "Center": [
+                3728.27001953125,
+                403.0,
+                6003.60009765625
+            ],
+            "Radius": 500.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "ExplosivesBase"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 1,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": [
+        "ExpansionAirdropContainerBase"
+    ]
+}

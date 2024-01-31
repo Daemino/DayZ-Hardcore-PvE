@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <repeat>60</repeat>
+        <text>Server has periodical restarts at 6:00 and 18:00 (GMT+1).</text>
+    </message>
+    <message>
+        <delay>3</delay>
+        <onconnect>1</onconnect>
+        <text>Server is PvE only, killing or stealing is prohibited.</text>
+    </message>
+    <message>
+        <repeat>120</repeat>
+        <text>Follow the rules in the Book menu (Press B-key).</text>
+    </message>
+</messages>
